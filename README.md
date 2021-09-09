@@ -11,7 +11,7 @@ The project consists of shortened URLs, it is a functional practice carried out 
 ***
 This is a first version, which when shortening a URL gives us a 5-digit code; or a new URL which we can more easily remember, and use to access the main web page to which the shortened URL points, all this immediately without any type of advertising.
 ### Screenshot
-![Image text](https://raw.githubusercontent.com/Esleiter/cutURL/master/ScreenShot/ScreenShot.png)
+![Image text](https://raw.githubusercontent.com/Esleiter/cutUrls/master/ScreenShot/ScreenShot.png)
 
 * [Demo](https://c.esleiter.com/): https://c.esleiter.com
 * [Google](https://c.esleiter.com/gugol): https://c.esleiter.com/gugol This link for example will take you to the google page.
