@@ -1,4 +1,4 @@
-# cutURLs
+# CutURLs
 ***
 The project consists of shortened URLs, it is a functional practice carried out with the MERN stack.
 
